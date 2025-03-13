@@ -1,0 +1,4 @@
+<key>NSCameraUsageDescription</key>
+<string>This app needs camera access to scan QR codes for student attendance</string>
+<key>io.flutter.embedded_views_preview</key>
+<true/> 
